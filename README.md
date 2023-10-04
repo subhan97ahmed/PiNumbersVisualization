@@ -48,7 +48,7 @@ To set up and run this project locally, follow these steps:
 4. **Run the Code:** Execute the Python script to generate Pi digits and create the heatmap
 
    ```bash
-   python pi_heatmap.py
+   python main.py
   
 6. **View the Heatmap:**
    Open the generated heatmap image in your preferred image viewer or Matplotlib window.
